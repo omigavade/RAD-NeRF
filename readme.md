@@ -2,9 +2,9 @@
 
 This repository contains a PyTorch re-implementation of the paper: [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition](https://arxiv.org/abs/2211.12368).
 
-Colab notebook demonstration: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZsC6J-eeaOFP43Oi8DuY_aMSNUlM0A_c?usp=sharing)
 
-### [Project Page](https://ashawkey.github.io/radnerf/) | [Arxiv](https://arxiv.org/abs/2211.12368) | [Data](https://drive.google.com/drive/folders/14LfowIkNdjRAD-0ezJ3JENWwY9_ytcXR?usp=sharing)
+
+
 
 A GUI for easy visualization:
 
