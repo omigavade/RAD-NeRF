@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/25863658/201629660-7ada624b-8602-4cfe-
 Tested on Ubuntu 22.04, Pytorch 1.12 and CUDA 11.6.
 
 ```bash
-git clone https://github.com/ashawkey/RAD-NeRF.git
+git clone https://github.com/omigavade/RAD-NeRF.git
 cd RAD-NeRF
 ```
 
